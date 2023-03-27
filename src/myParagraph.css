@@ -1,0 +1,10 @@
+.myParagraph {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+  }
+  
+  .myParagraph p {
+    font-size: 1.8rem;
+  }
+  
